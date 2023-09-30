@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import ThemeToggle from './components/ThemeToggle';
+import ThemeToggle from './ThemeToggle';
 
 function App() {
   return (
